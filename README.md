@@ -1,4 +1,3 @@
-# Wi-FiPenetrationTesting
 
 - Its purpose is to automate various tasks involved in testing the security of a Wi-Fi network and to be tested directly on windows without using virtualization or kalilinux.
 
